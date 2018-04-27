@@ -1,6 +1,6 @@
 # Vehicle-Type-Classification-Using-CNN
 <p>This project is about vehicle type classification using convolutional neural network. And we build three CNN models to solve this problem.</p>
-<p>This repository cotains a scientific blog <a href="./Vehicle-Type-Classification-using-CNN.ipynb">Vehicle Type Classification using CNN </a>about how to implement this project including how to set up the deep learning environment, code details, the results of three CNN models and our evaluation and conclusion.</p>
+<p>This repository cotains a scientific blog <a href="./Vehicle Type Classification using CNN.ipynb">Vehicle Type Classification using CNN </a>about how to implement this project including how to set up the deep learning environment, code details, the results of three CNN models and our evaluation and conclusion.</p>
 <p>You can access and download the dataset we use in <a href="http://iitlab.bit.edu.cn/mcislab/vehicledb/" target="_blank">BIT-Vehicle Dataset</a></p>
 <p>We suggest you using GPU to train these CNN models because of the computational efficiency.</p>
 <p>Here are some instructions about how to set up an AWS Environment:</p>
